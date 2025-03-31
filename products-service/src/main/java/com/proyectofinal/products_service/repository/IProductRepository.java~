@@ -1,0 +1,4 @@
+package com.proyectofinal.products_service.repository;
+
+public interface IProductRepository {
+}
